@@ -5,7 +5,7 @@ This project consists of a simple task manager web application developed using F
 
 ## Project Structure
 
-The project includes several files and directories:
+The project includes several files and directories:                                                 
 
 ### app.py
 
