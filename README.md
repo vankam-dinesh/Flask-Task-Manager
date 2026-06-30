@@ -8,7 +8,7 @@ This project consists of a simple task manager web application developed using F
 The project includes several files and directories:                                                 
 
 ### app.py
-
+                                                
 This is the main Python script that initializes the Flask application. It configures the secret key and database URI, sets up the SQLAlchemy database, and imports the routes from the `routes.py` file. The Flask app is run with debugging enabled when this script is executed.
 
 ### forms.py
